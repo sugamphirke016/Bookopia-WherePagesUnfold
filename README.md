@@ -25,7 +25,7 @@
 </p>
 
 
-**B**ookopia is an exemplary web project that seamlessly combines advanced technologies, superior coding practices, and captivating design aesthetics to build a library management system. It is specially developed by Team [Dev Rookies]() for the [Afourathon](https://afourathon.com/) hackathon. Built using the MERN stack and incorporating cloud-based technologies such as Cloudinary and Multer, the system enables librarians to efficiently manage student and book records. It provides functionalities for adding, updating, and deleting student and book information, ensuring the persistence of data in the MongoDB Atlas database. With a user-friendly interface and seamless integration of various technologies, Bookopia offers librarians a reliable solution for streamlining library operations.
+**B**ookopia is an exemplary web project that seamlessly combines advanced technologies, superior coding practices, and captivating design aesthetics to build a library management system. It is specially developed by Team [Dev Rookies]() for the [Afourathon](https://afourathon.com/) hackathon. Built using the MERN stack and incorporating cloud-based technologies such as Cloudinary and Multer, the system enables librarians to efficiently manage student and book records. It provides functionalities for adding, updating, and deleting student and book information, ensuring the persistence of data in the MongoDB Atlas database. With a user-friendly interface and seamless integration of various technologies, Bookopia offers librarians a reliable solution for streamlining library operations. An updated version of this web app has been delivered to a school for managing their school library too.
 
 [Visit website](https://college-management-project-23n2.vercel.app/  "Checkout the hosted website")
 •
@@ -40,7 +40,7 @@
 - Construction based on Fluid Float Layouts and Flexbox.
 - Integration of Responsive units for optimal adaptability.
 - Adherence to the principles of color theory in its design, creating visually harmonious and engaging experiences.
-- Provision for browsers that do not support specific styles, ensuring a consistent experience across different platforms.
+- Provision for browsers not supporting specific styles, ensuring a consistent experience across different platforms.
 - Built on the NPM ecosystem, leveraging the power of a vast collection of open-source packages and libraries.
 - Codebase designed to be reusable, maintainable, and scalable, allowing for easy expansion and updates.
 - Meticulously crafted using a Desktop-first approach, ensuring full responsiveness across various devices such as mobile phones, tablets (both in portrait and landscape orientations), and even larger screens.
